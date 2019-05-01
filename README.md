@@ -1,9 +1,2 @@
-# top14client
-Client Android pour l'application TOP14
-
-## Description
-Application Android qui se connecte à un service Web RESTful et qui récupère la liste des club de rugby du TOP 14.
-
-
-## Changelog
-2018-03-11 : commit initial
+# FrediMobileClient
+Application cliente Android pour l'application FrediMobile. Cette application permet à des utilisateurs d'afficher leur borderau actuel ainsi que leurs lignes de frais associés.
